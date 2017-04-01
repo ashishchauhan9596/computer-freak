@@ -1,0 +1,6 @@
+#chatb{width:500px; height:450px; border:1px solid #000; margin:auto;}
+#mcz{width:500px; height:450px;font-size:19px; font-weight:normal;}
+#ctxt{width:495px; height:48px; border:1px solid #333;}
+#ctxt:focus{outline:none;}
+.Username{color: #7CB9E8;;}
+.Username:hover{text-decoration:underline;cursor:pointer;}
